@@ -186,8 +186,7 @@ Successfully created an AI-powered, scalable, and secure missing child identific
 ## ✍️ Authors
 
 - Nawab Pranay Goud [21N31A7249]
-- Mogili Gopi Prasad [21N31A7241]
-- Lavudya Siddharth Nayak [21N31A7233]
+- LinkedIn : linkedin.com/in/pranaygoudnawab
 
 **Guided by**:  
 Dr. Kannaiah Chattu, Associate Professor
